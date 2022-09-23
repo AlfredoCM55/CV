@@ -1,0 +1,80 @@
+
+body{
+background-color : rgb(224, 221, 208)
+}
+div{
+    background-color: white;
+    padding: 12px;
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 30px;
+    border: 5px outset #1C6EA4;
+}
+fieldset{
+margin-bottom: 12px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+legend{
+    background-color: rgb(140, 187, 206);
+    font-weight: bold;
+    border: 5px;
+    border-radius: 5px;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: right;
+    margin-right: 10%;
+
+}
+ul{
+    border-bottom: saddlebrown;
+}
+h2{
+    font-size: 15px;
+}
+li{
+    list-style: none;
+}
+.container{
+   width: 25%;
+   height: 40%;
+   float: left;
+   margin: 18px;
+}
+.container2{
+    float: right;
+    width: 28%;
+    height: 22%;
+    border-top: -15%;
+    margin: 40px;
+    margin: 5px;
+    padding: 0;
+    
+}
+img{
+    float: bottom;
+    width: 17%;
+    height: 25%;
+    border-top: initial;
+    margin-left: 10%;
+    border-radius: 10%
+    
+}
+h3{
+    float: right;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-top: -10%;
+}
+#insta #git #whats{
+    height: 2px;
+    width: 20px;
+}
+.cont{
+    width: 28%;
+    height: 12%;
+    margin: 0px auto;
+    
+ 
+}
